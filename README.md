@@ -4,8 +4,8 @@ Olá ! Bem vindo ao livro de receitas :wave:
 
 - strogonoff de frango
 - pavê
-
 - bolo de cenoura
+- bolo de morango
 
 
 
